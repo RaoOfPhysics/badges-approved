@@ -1,4 +1,4 @@
-# badges: approved ![](https://img.shields.io/badge/build%20by-MozWOW-orange.svg)
+# badges: approved ![](https://img.shields.io/badge/built%20by-MozWOW-orange.svg)
 
 All the badges! Courtesy: [shields.io](http://shields.io)
 
