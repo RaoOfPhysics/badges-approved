@@ -3,7 +3,7 @@
 All the badges! Courtesy: [shields.io](http://shields.io)
 
 BADGE|CODE
----|---
+:--|:--
 ![](https://img.shields.io/badge/build%20by-MozWOW-orange.svg)|`![](https://img.shields.io/badge/build%20by-MozWOW-orange.svg)`
 ![](https://img.shields.io/badge/%F0%9F%90%BAwow-approved-brightgreen.svg)|`![](https://img.shields.io/badge/%F0%9F%90%BAwow-approved-brightgreen.svg)`
 ![](https://img.shields.io/badge/blahah-approved-brightgreen.svg)|`![](https://img.shields.io/badge/blahah-approved-brightgreen.svg)`
