@@ -2,6 +2,19 @@
 
 All the badges! Courtesy: [shields.io](http://shields.io)
 
+## For MozSprint
+
+BADGE|CODE
+:--|:--
+![MozSprint 2016](https://img.shields.io/badge/MozSprint-2016-brightgreen.svg)|`![MozSprint 2016](https://img.shields.io/badge/MozSprint-2016-brightgreen.svg)`
+![MozSprint 2015](https://img.shields.io/badge/MozSprint-2015-orange.svg)|`![MozSprint 2015](https://img.shields.io/badge/MozSprint-2015-orange.svg)`
+![MozSprint 2014](https://img.shields.io/badge/MozSprint-2014-orange.svg)|`![MozSprint 2014](https://img.shields.io/badge/MozSprint-2014-orange.svg)`
+![MozSprint multiple](https://img.shields.io/badge/MozSprint-2014%20%7C%202015%20%7C%202016-brightgreen.svg)|`![MozSprint multiple](https://img.shields.io/badge/MozSprint-2014%20%7C%202015%20%7C%202016-brightgreen.svg)`
+![MozSprint multiple](https://img.shields.io/badge/MozSprint-2015%20%7C%202016-brightgreen.svg)|`![MozSprint multiple](https://img.shields.io/badge/MozSprint-2015%20%7C%202016-brightgreen.svg)`
+![MozSprint multiple](https://img.shields.io/badge/MozSprint-2014%20%7C%202015-orange.svg)|`![MozSprint multiple](https://img.shields.io/badge/MozSprint-2014%20%7C%202015-orange.svg)`
+
+## Other Badges
+
 BADGE|CODE
 :--|:--
 ![](https://img.shields.io/badge/built%20by-MozWOW-orange.svg)|`![](https://img.shields.io/badge/built%20by-MozWOW-orange.svg)`
@@ -30,6 +43,6 @@ BADGE|CODE
 ![](https://img.shields.io/badge/githug%3F-%28.%E3%81%A5%E2%97%A1%EF%B9%8F%E2%97%A1%29%E3%81%A5-blue.svg)|`![](https://img.shields.io/badge/githug%3F-%28.%E3%81%A5%E2%97%A1%EF%B9%8F%E2%97%A1%29%E3%81%A5-blue.svg)`
 ![](https://img.shields.io/badge/%CA%95%20%E2%8A%83%EF%BD%A5%20%E2%97%A1%20%EF%BD%A5%20%CA%94%E2%8A%83-%E2%8A%82%28%E3%83%BB%E2%96%BD%E3%83%BB%E2%8A%82%29-blue.svg)|`![](https://img.shields.io/badge/%CA%95%20%E2%8A%83%EF%BD%A5%20%E2%97%A1%20%EF%BD%A5%20%CA%94%E2%8A%83-%E2%8A%82%28%E3%83%BB%E2%96%BD%E3%83%BB%E2%8A%82%29-blue.svg)`
 ![](https://img.shields.io/badge/DARUDE-SANDSTORM-lightgrey.svg)|`![](https://img.shields.io/badge/DARUDE-SANDSTORM-lightgrey.svg)`
-![](https://img.shields.io/badge/breakfast-🍰-brightgreen.svg)|`![](https://img.shields.io/badge/breakfast-🍰-brightgreen.svg)`
+![](https://img.shields.io/badge/breakfast-%F0%9F%8D%B0-brightgreen.svg)|`![](https://img.shields.io/badge/breakfast-%F0%9F%8D%B0-brightgreen.svg)`
 ![](https://img.shields.io/badge/%F0%9F%8D%B0-a_lie-red.svg)|`![](https://img.shields.io/badge/%F0%9F%8D%B0-a_lie-red.svg)`
 ![ ](https://img.shields.io/badge/timezones-borked-red.svg)|`![ ](https://img.shields.io/badge/timezones-borked-red.svg)`
